@@ -1,0 +1,2 @@
+Here we need all folders divided for Project or Subject.
+In a folder we find all the images related to that project or a single site page.
